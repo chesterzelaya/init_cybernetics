@@ -8,25 +8,25 @@ systems in both machines and living things.
 
 # Curriculum
 
-## Basic math 
+## 0. Basic math 
 
-> Linear Algebra 
-> Differential Equations
-> Probability and Statistics
-> Convex Optimization
+Linear Algebra 
+Differential Equations
+Probability and Statistics
+Convex Optimization
 
-## Signals and systems
+## 1. Signals and systems
 
-## Feedback control
+## 2. Feedback control
 
-## Estimation and filtering
+## 3. Estimation and filtering
 
-## Information and inference 
+## 4. Information and inference 
 
-## Time series and system identification
+## 5. Time series and system identification
 
-## Optimal control and sequential decision making
+## 6. Optimal control and sequential decision making
 
-## Machine learning and architectures
+## 7. Machine learning and architectures
 
-## Reinforcement learning
+## 8. Reinforcement learning
