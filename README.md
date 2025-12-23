@@ -10,10 +10,10 @@ systems in both machines and living things.
 
 ## 0. Basic math 
 
-Linear Algebra 
-Differential Equations
-Probability and Statistics
-Convex Optimization
+Linear Algebra -
+Differential Equations -
+Probability and Statistics -
+Convex Optimization -
 
 ## 1. Signals and systems
 
