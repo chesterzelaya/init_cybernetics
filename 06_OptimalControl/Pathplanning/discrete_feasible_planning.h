@@ -38,3 +38,7 @@ public:
 bool forwardSearch(const stateSpace::State &start,
                    const stateSpace::State &goal, const stateSpace &S,
                    const actionSpace &A);
+
+bool backwardSearch(const stateSpace::State &start,
+                    const stateSpace::State &goal, const stateSpace &S,
+                    const actionSpace &A);
